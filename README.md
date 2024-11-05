@@ -47,6 +47,6 @@ Description: JUnit is a unit testing library. It is used to test individual meth
 #### The below would work if the JAR could properly be uploaded to GitLab. Unfortunately, it exceeds the 10 MiB max size. This link can be used to access the JAR though: https://drive.google.com/open?id=1uVIKnHuJoi5JARYKs-2RVu8rZ0ETX-Mc
 Using the command line:
 1. Clone the repository: `git clone https://github.com/shane-staret/Poker-Game-Bucknell-CSCI-205.git`
-3. Go to the directory the repository was cloned into using the `cd` command
-5. Navigate to `~/csci205_Kings_Disciples/dist/` using the `cd` command
-6. Execute the `PokerGame.jar` file
+2. Go to the directory the repository was cloned into using the `cd` command
+3. Navigate to `~/csci205_Kings_Disciples/dist/` using the `cd` command: `cd csci205_Kings_Disciples/dist`
+4. Execute the JAR file: `java -jar PokerGame.jar`
