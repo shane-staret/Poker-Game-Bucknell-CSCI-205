@@ -2,7 +2,7 @@
 :crown: King's Disciples :crown:
 
 ## Project Description & Explanation
-**This repository is Sami Dunn's, Shane Staret's, John Colbert's, and Mike Heller's final project for Bucknell University's CSCI205 course.**  
+**The final project for Bucknell University's CSCI205 course.**  
 This project is a Java application that simulates playing a Texas Hold 'Em Poker game against CPU opponents. The objective of this project was to create a functional Texas Hold 'Em Poker Graphical User Interface (GUI) environment with moderately challenging CPU opponents. Allowing for customization on the player's end was also an important objective.  
   
 We mainly separated our work into front-end and back-end designers. Shane and Sami primarily worked on the front-end development, while Mike and John focused on the back-end development. The GUI was built entirely through JavaFX, primarily using the Shape object that this library offers. The backend logic that controlled the aptitude of the CPU opponents was hardcoded (meaning that no true AI or machine learning was used). This would likely be something that we could change in the future, so that we may be able to implement a feature allowing for the player to adjust the CPUs difficulty without us having to hardcode different difficulties, which would be very convoluted and inefficient. 
