@@ -1,9 +1,6 @@
 ## Team Name
 :crown: King's Disciples :crown:
 
-## Team Members
-Sami Dunn, Michael Heller, John Colbert, and Shane Staret
-
 ## Project Description & Explanation
 **This repository is Sami Dunn's, Shane Staret's, John Colbert's, and Mike Heller's final project for Bucknell University's CSCI205 course.**  
 This project is a Java application that simulates playing a Texas Hold 'Em Poker game against CPU opponents. The objective of this project was to create a functional Texas Hold 'Em Poker Graphical User Interface (GUI) environment with moderately challenging CPU opponents. Allowing for customization on the player's end was also an important objective.  
