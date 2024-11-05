@@ -48,5 +48,5 @@ Description: JUnit is a unit testing library. It is used to test individual meth
 Using the command line:
 1. Clone the repository: `git clone https://github.com/shane-staret/Poker-Game-Bucknell-CSCI-205.git`
 3. Go to the directory the repository was cloned into using the `cd` command
-5. Navigate to `~/csci205_Kings_Disciples/dist/`
+5. Navigate to `~/csci205_Kings_Disciples/dist/` using the `cd` command
 6. Execute the `PokerGame.jar` file
