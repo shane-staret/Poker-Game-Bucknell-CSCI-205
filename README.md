@@ -34,7 +34,7 @@ The application follows the below logic:
   
 **view** - This package contains the classes that create the GUI.   
 
-## 3rd Parties Used
+## Libraries Used
 #### **JavaFX**  
 Version Number: 13.0.1  
 Description: JavaFX is a GUI library built to be used with Java applications that require a complex User Interface (UI). The UI for this project was entirely built using JavaFX.  
@@ -42,9 +42,3 @@ Description: JavaFX is a GUI library built to be used with Java applications tha
 #### **JUnit**  
 Version Number: 5.5.2  
 Description: JUnit is a unit testing library. It is used to test individual methods within varying interconnected classes within a Java application. This is useful because JUnit tests can be used to confirm that a particular method is working, even when other components of the application that it depends on may not be fully implemented. These tests can be used to confirm the solidarity of a particular method and can be extremely helpful when debugging issues.  
-  
-## Execution Instructions
-Using the command line:
-1. Clone the repository: `git clone https://github.com/shane-staret/Poker-Game-Bucknell-CSCI-205.git`
-3. Navigate to the JAR file (from the directory you cloned the repo into): `cd Poker-Game-Bucknell-CSCI-205/dist`
-4. Execute the JAR file: `java -jar PokerGame.jar`
