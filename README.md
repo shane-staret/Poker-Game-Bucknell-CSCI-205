@@ -44,7 +44,7 @@ Version Number: 5.5.2
 Description: JUnit is a unit testing library. It is used to test individual methods within varying interconnected classes within a Java application. This is useful because JUnit tests can be used to confirm that a particular method is working, even when other components of the application that it depends on may not be fully implemented. These tests can be used to confirm the solidarity of a particular method and can be extremely helpful when debugging issues.  
   
 ## Execution Instructions
-#### The below would work if the JAR could properly be uploaded to GitLab. Unfortunately, it exceeds the 10 MiB max size. This link can be used to access the JAR though: https://drive.google.com/open?id=1uVIKnHuJoi5JARYKs-2RVu8rZ0ETX-Mc
+#### The below steps would work if the JAR could properly be uploaded to GitLab. Unfortunately, it exceeds the 10 MiB max size. This link can be used to access the JAR though: https://drive.google.com/open?id=1uVIKnHuJoi5JARYKs-2RVu8rZ0ETX-Mc
 Using the command line:
 1. Clone the repository: `git clone https://github.com/shane-staret/Poker-Game-Bucknell-CSCI-205.git`
 2. Go to the directory the repository was cloned into using the `cd` command
